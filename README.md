@@ -1,5 +1,9 @@
-<p align="left"><b>Hi 👋, I'm Sourav<b></p>
-<p align="left"><b>A passionate Full Stack developer<b></p>
+<p align="left">
+<b>Hello, folks! 👋<b>
+
+My name is Sourav Baghmar and I am a Full Stack Developer with keen interest in DevOps. I like to learn new technologies and implement them in productive ways. I would love to collaborate with other developers and contribute to more Open Source Projects.
+  </p>
+
   
 <p align="left"> 
 <h3 align="left">Connect with me:</h3>  
@@ -9,7 +13,6 @@
 <a href="https://www.leetcode.com/https://leetcode.com/user9350y/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="https://leetcode.com/user9350y/" height="25" width="25" /></a>
 
 </p>
-<br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a> &nbsp;
