@@ -1,8 +1,8 @@
-<p align="left">
 <h3>Hello, folks! 👋<h3>
-<p><b>
+<p align="left">
+<b>
 My name is Sourav Baghmar and I am a Full Stack Developer with keen interest in DevOps. I like to learn new technologies and implement them in productive ways. I would love to collaborate with other developers and contribute to more Open Source Projects.
-  <b></p></p>
+  <b></p>
 
   
 <p align="left"> 
