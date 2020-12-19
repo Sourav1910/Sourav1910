@@ -8,7 +8,7 @@ My name is Sourav Baghmar and I am a Full Stack Developer with keen interest in 
 <p align="left"> 
 <h3 align="left">Connect with me:</h3>  
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sourav-baghmar-988a01184/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/sourav-baghmar-988a01184/" height="25" width="25" /></a> &nbsp;
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sourav-baghmar-988a01184/" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" alt="https://www.linkedin.com/in/sourav-baghmar-988a01184/" height="25" width="25" /></a> &nbsp;
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/souravbaghmar/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="https://auth.geeksforgeeks.org/user/souravbaghmar/profile" height="25" width="25" /></a>&nbsp;
 <a href="https://www.leetcode.com/https://leetcode.com/user9350y/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="https://leetcode.com/user9350y/" height="25" width="25" /></a>
 </p>
