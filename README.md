@@ -17,14 +17,14 @@ My name is Sourav Baghmar and I am a Full Stack Developer with keen interest in 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/javascript/javascript.svg" alt="javascript" width="30" height="30"/> </a> &nbsp;
-<a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/> </a> &nbsp;
+<a href="https://nodejs.org" target="_blank"> <img src="https://img2.pngio.com/nodejs-javascript-web-application-expressjs-computer-software-node-png-820_820.jpg" alt="nodejs" width="30" height="30"/> </a> &nbsp;
 <a href="https://reactjs.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> </a> &nbsp;
 <a href="https://developer.android.com" target="_blank"> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="30" height="30"/> 
 </a> &nbsp;
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/> </a> &nbsp;
+<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/cpp/cpp.svg" alt="cplusplus" width="30" height="30"/> </a> &nbsp;
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/> </a> &nbsp;
-<a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a>
+<a href="https://www.python.org" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/python/python.svg" alt="python" width="30" height="30"/> </a>
  </p>
  
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sourav1910&show_icons=true&theme=dark" alt="sourav1910" /></p>
