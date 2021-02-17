@@ -16,7 +16,7 @@ My name is Sourav Baghmar and I am a Full Stack Developer with keen interest in 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a> &nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/javascript/javascript.svg" alt="javascript" width="30" height="30"/> </a> &nbsp;
 <a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/> </a> &nbsp;
 <a href="https://reactjs.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> </a> &nbsp;
 <a href="https://developer.android.com" target="_blank"> 
