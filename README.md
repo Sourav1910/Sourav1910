@@ -18,12 +18,12 @@ My name is Sourav Baghmar and I am a Full Stack Developer with keen interest in 
 <p align="left"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/javascript/javascript.svg" alt="javascript" width="30" height="30"/> </a> &nbsp;
 <a href="https://nodejs.org" target="_blank"> <img src="https://brandeps.com/logo-download/N/Node-JS-logo-vector-01.svg" alt="nodejs" width="30" height="30"/> </a> &nbsp;
-<a href="https://reactjs.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> </a> &nbsp;
+<a href="https://reactjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="30" height="30"/> </a> &nbsp;
 <a href="https://developer.android.com" target="_blank"> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="30" height="30"/> 
+<img src="https://www.flaticon.com/svg/vstatic/svg/174/174836.svg?token=exp=1613548766~hmac=65a518a7389f700ff73496ce57924359" alt="android" width="30" height="30"/> 
 </a> &nbsp;
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/cpp/cpp.svg" alt="cplusplus" width="30" height="30"/> </a> &nbsp;
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/> </a> &nbsp;
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" width="30" height="30"/> </a> &nbsp;
 <a href="https://www.python.org" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/python/python.svg" alt="python" width="30" height="30"/> </a>
  </p>
  
