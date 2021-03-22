@@ -20,7 +20,7 @@ My name is Sourav Baghmar and I am a Full Stack Developer with keen interest in 
 <a href="https://nodejs.org" target="_blank"> <img src="https://brandeps.com/logo-download/N/Node-JS-logo-vector-01.svg" alt="nodejs" width="30" height="30"/> </a> &nbsp;
 <a href="https://reactjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="30" height="30"/> </a> &nbsp;
 <a href="https://developer.android.com" target="_blank"> 
-<img src="https://www.flaticon.com/svg/vstatic/svg/174/174836.svg?token=exp=1613548766~hmac=65a518a7389f700ff73496ce57924359" alt="android" width="30" height="30"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/android.svg" alt="android" width="30" height="30"/> 
 </a> &nbsp;
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/cpp/cpp.svg" alt="cplusplus" width="30" height="30"/> </a> &nbsp;
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="30" height="30"/> </a> &nbsp;
