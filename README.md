@@ -1,7 +1,7 @@
 <h3>Hello, folks! 👋<h3>
 
 <p align="left">
-My name is Sourav Baghmar and I am a Full Stack Developer with keen interest in DevOps 👨‍💻 . I like to learn new technologies and implement them in productive ways. I would love 😁 to collaborate with other developers and contribute to more Open Source Projects.
+I am Sourav Baghmar, a Full Stack Developer 💻 . I like to learn new technologies and implement them in productive ways. Currently, I am learning ReactJS by building projects.  I've also had experience working with Android and Firebase. I would love 😁 to collaborate with other developers and contribute to more Open Source Projects.
 </p>
 
   
