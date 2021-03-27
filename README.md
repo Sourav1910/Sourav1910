@@ -3,7 +3,7 @@
 
 I am Sourav Baghmar, a Full Stack Developer 💻 . I like to learn new technologies and implement them in productive ways 😁. Currently, I am learning ReactJS by building projects.  I've also had experience working with Android and Firebase.
 
-Check out my [portfolio website](https://souravbaghmar.live/) to see my projects.
+Check out my <a target="_blank" href="https://souravbaghmar.live/">portfolio website</a> to see my projects.
 
 
   
