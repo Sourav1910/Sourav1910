@@ -1,8 +1,10 @@
 <h3>Hello, folks! 👋<h3>
 
-<p align="left">
+
 I am Sourav Baghmar, a Full Stack Developer 💻 . I like to learn new technologies and implement them in productive ways 😁. Currently, I am learning ReactJS by building projects.  I've also had experience working with Android and Firebase.
-</p>
+
+Check out my [portfolio website](https://souravbaghmar.live/) to see my projects.
+
 
   
 <p align="left"> 
